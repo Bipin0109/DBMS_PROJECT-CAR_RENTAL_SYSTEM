@@ -1,1 +1,2 @@
 # DBMS_PROJECT-CAR_RENTAL_SYSTEM
+Our objective is to  produce a Car Rental system. Customer can rent a car based on make and a model. Our system provides customer to have different pick-up and drop off locations and will impose late fee if the rental car is returned beyond the return date and time. The Customers can purchase car rental insurance which is optional and can use upto one discount coupon to their final bill. Customers who have membership will be by default given a 15% discount in their final bill.
